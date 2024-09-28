@@ -30,3 +30,41 @@
 *.exe
 *.out
 *.app
+
+# Ignore everything
+*
+
+# Allow specific file types for each language
+
+# Java
+!*.java
+!*.jar
+!*.class
+
+# Python
+!*.py
+
+# C++
+!*.cpp
+!*.h
+
+# Kotlin
+!*.kt
+!*.kts
+
+# TypeScript
+!*.ts
+!*.tsx
+
+# JavaScript
+!*.js
+!*.jsx
+
+# Optional: Ignore common IDE/project files
+# .idea/ (for IntelliJ IDEA)
+# *.iml
+# __pycache__/
+# .vscode/
+# node_modules/
+# .DS_Store
+# *.class (Java bytecode files)

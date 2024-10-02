@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BigO", "BigO\BigO.vcxproj", "{D1BAEC21-EF4C-41FB-A351-46FD43FBDD7C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkedListNode", "LinkedListNode\LinkedListNode.vcxproj", "{642B4CA9-82EC-4F59-BEBB-9A042B9C2FF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{D1BAEC21-EF4C-41FB-A351-46FD43FBDD7C}.Release|x64.Build.0 = Release|x64
 		{D1BAEC21-EF4C-41FB-A351-46FD43FBDD7C}.Release|x86.ActiveCfg = Release|Win32
 		{D1BAEC21-EF4C-41FB-A351-46FD43FBDD7C}.Release|x86.Build.0 = Release|Win32
+		{642B4CA9-82EC-4F59-BEBB-9A042B9C2FF4}.Debug|x64.ActiveCfg = Debug|x64
+		{642B4CA9-82EC-4F59-BEBB-9A042B9C2FF4}.Debug|x64.Build.0 = Debug|x64
+		{642B4CA9-82EC-4F59-BEBB-9A042B9C2FF4}.Debug|x86.ActiveCfg = Debug|Win32
+		{642B4CA9-82EC-4F59-BEBB-9A042B9C2FF4}.Debug|x86.Build.0 = Debug|Win32
+		{642B4CA9-82EC-4F59-BEBB-9A042B9C2FF4}.Release|x64.ActiveCfg = Release|x64
+		{642B4CA9-82EC-4F59-BEBB-9A042B9C2FF4}.Release|x64.Build.0 = Release|x64
+		{642B4CA9-82EC-4F59-BEBB-9A042B9C2FF4}.Release|x86.ActiveCfg = Release|Win32
+		{642B4CA9-82EC-4F59-BEBB-9A042B9C2FF4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

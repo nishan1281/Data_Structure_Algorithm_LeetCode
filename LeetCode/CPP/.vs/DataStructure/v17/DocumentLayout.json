@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\SoftwareDevelopment\\Data_Structure_Algorithm_LeetCode\\LeetCode\\CPP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FD495AD0-55E5-4562-9BAF-B38967273932}|RecursiveParentChildAdvance\\RecursiveParentChildAdvance.vcxproj|D:\\SoftwareDevelopment\\Data_Structure_Algorithm_LeetCode\\LeetCode\\CPP\\RecursiveParentChildAdvance\\RecursiveParentChildAdvance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD495AD0-55E5-4562-9BAF-B38967273932}|RecursiveParentChildAdvance\\RecursiveParentChildAdvance.vcxproj|solutionrelative:RecursiveParentChildAdvance\\RecursiveParentChildAdvance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC974D01-FAA2-480B-B466-E95D42AC2B23}|RecursiveParentChildBasic\\RecursiveParentChildBasic.vcxproj|D:\\SoftwareDevelopment\\Data_Structure_Algorithm_LeetCode\\LeetCode\\CPP\\RecursiveParentChildBasic\\RecursiveParentChildBasic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC974D01-FAA2-480B-B466-E95D42AC2B23}|RecursiveParentChildBasic\\RecursiveParentChildBasic.vcxproj|solutionrelative:RecursiveParentChildBasic\\RecursiveParentChildBasic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{642B4CA9-82EC-4F59-BEBB-9A042B9C2FF4}|LinkedListNode\\LinkedListNode.vcxproj|D:\\SoftwareDevelopment\\Data_Structure_Algorithm_LeetCode\\LeetCode\\CPP\\LinkedListNode\\LinkedListNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{642B4CA9-82EC-4F59-BEBB-9A042B9C2FF4}|LinkedListNode\\LinkedListNode.vcxproj|solutionrelative:LinkedListNode\\LinkedListNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,12 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RecursiveParentChildAdvance.cpp",
+              "DocumentMoniker": "D:\\SoftwareDevelopment\\Data_Structure_Algorithm_LeetCode\\LeetCode\\CPP\\RecursiveParentChildAdvance\\RecursiveParentChildAdvance.cpp",
+              "RelativeDocumentMoniker": "RecursiveParentChildAdvance\\RecursiveParentChildAdvance.cpp",
+              "ToolTip": "D:\\SoftwareDevelopment\\Data_Structure_Algorithm_LeetCode\\LeetCode\\CPP\\RecursiveParentChildAdvance\\RecursiveParentChildAdvance.cpp",
+              "RelativeToolTip": "RecursiveParentChildAdvance\\RecursiveParentChildAdvance.cpp",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T03:18:12.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecursiveParentChildBasic.cpp",
+              "DocumentMoniker": "D:\\SoftwareDevelopment\\Data_Structure_Algorithm_LeetCode\\LeetCode\\CPP\\RecursiveParentChildBasic\\RecursiveParentChildBasic.cpp",
+              "RelativeDocumentMoniker": "RecursiveParentChildBasic\\RecursiveParentChildBasic.cpp",
+              "ToolTip": "D:\\SoftwareDevelopment\\Data_Structure_Algorithm_LeetCode\\LeetCode\\CPP\\RecursiveParentChildBasic\\RecursiveParentChildBasic.cpp",
+              "RelativeToolTip": "RecursiveParentChildBasic\\RecursiveParentChildBasic.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwCIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T03:16:41.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LinkedListNode.cpp",
               "DocumentMoniker": "D:\\SoftwareDevelopment\\Data_Structure_Algorithm_LeetCode\\LeetCode\\CPP\\LinkedListNode\\LinkedListNode.cpp",
               "RelativeDocumentMoniker": "LinkedListNode\\LinkedListNode.cpp",
               "ToolTip": "D:\\SoftwareDevelopment\\Data_Structure_Algorithm_LeetCode\\LeetCode\\CPP\\LinkedListNode\\LinkedListNode.cpp",
               "RelativeToolTip": "LinkedListNode\\LinkedListNode.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-02T17:56:16.224Z",
               "EditorCaption": ""
